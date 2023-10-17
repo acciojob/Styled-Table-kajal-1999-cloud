@@ -1,1 +1,27 @@
 /* your code */
+
+		.content{
+			border-collapse: collapse;
+			font-family: Arial, Helvetica, sans-serif;
+			min-width: 1000px;
+			text-align: left;
+			border-radius: 5px 5px 0 0;
+		}
+		.content thead tr{
+			background-color: #2666BE;
+			height: 35px;
+			font-size: 12px;
+		}
+		.body-content{
+			background-color: white;
+			height: 35px;
+			font-size: 13px
+		}
+		.content2{
+			background-color: #DDDDDD;
+			height: 35px;
+			font-size: 13px
+		}
+		#heading{
+			color: white;
+		}
